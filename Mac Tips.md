@@ -64,15 +64,15 @@
 
 12. 监控
 
-	* top
-
-		显示目前系统进程情况、CPU使用情况、内存使用情况、磁盘使用情况和进程的详细列表等信息
-
-	* htop
-
-		更高级的 top， 多个 CPU、内存统计、uptime，更详细的进程信息
-
-		`sudo port install htop` 安装
+	    * top
+	
+	    	显示目前系统进程情况、CPU使用情况、内存使用情况、磁盘使用情况和进程的详细列表等信息
+	
+    	* htop
+	
+    		更高级的 top， 多个 CPU、内存统计、uptime，更详细的进程信息
+	
+    		`sudo port install htop` 安装
 
 13. ssh copy
 
